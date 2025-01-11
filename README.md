@@ -3,7 +3,7 @@ Gerenciamento de assinaturas em python
 <br><br>
 Projeto feito para fins didadicos seguindo o curso PSW da pythonando utilizando apenas python.
 <br><br>
-Funcionalidades:
+Funcionalidades:<br>
 [1] Adicionar assinatura<br>
 <s>[2] Pagar assinatura</s><br>
 [3] Remover assinatura<br>
